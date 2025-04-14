@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     --sfondo-color: red;
+    --padding-text:30px
 }
 
 .fluid{
@@ -13,6 +14,9 @@
     background: var(--sfondo-color);
      
     
+}
+p{
+    padding: var(--padding-text);
 }
 .pixel{
     width: 200px;
