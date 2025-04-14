@@ -28,6 +28,7 @@ p{
 .p1{
     background: var(--sfondo-color);
     font-size: 7rem;
+    display: none;
 }
 .p2{
     background: var(--sfondo-color);
