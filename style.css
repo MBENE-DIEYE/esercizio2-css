@@ -62,3 +62,6 @@ span{
 div img{
     float: right;
 }
+.p3{
+    clear: both;
+}
