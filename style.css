@@ -11,3 +11,9 @@
     border: 10px solid greenyellow;
     
 }
+.pixel{
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+    border: 10px solid rebeccapurple;
+}
