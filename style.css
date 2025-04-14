@@ -42,3 +42,19 @@ p{
 ul li{
     display: inline-block;
 }
+span{
+    border: 1px solid fuchsia;
+    background: yellow;
+    width: 20px;
+    height: 20px;
+}
+
+.span1{
+    display: inline;
+}
+.span2{
+    display: inline-block;
+}
+.span3{
+    display: block;
+}
