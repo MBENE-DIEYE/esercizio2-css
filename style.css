@@ -33,3 +33,6 @@ p{
     background: var(--sfondo-color);
     font-size: 7em;
 }
+.div1{
+    padding: 50px;
+}
