@@ -17,3 +17,9 @@
     padding: 40px;
     border: 10px solid rebeccapurple;
 }
+.p1{
+    font-size: 7rem;
+}
+.p2{
+    font-size: 7em;
+}
