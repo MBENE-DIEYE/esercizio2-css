@@ -1,9 +1,13 @@
+:root{
+    --sfondo-color: red;
+    --padding-text:30px
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    --sfondo-color: red;
-    --padding-text:30px
+    background-color: var(--sfondo-color);
 }
 
 .fluid{
@@ -11,7 +15,7 @@
     height: 20%;
     padding: 10%;
     border: 10px solid greenyellow;
-    background: var(--sfondo-color);
+    
      
     
 }
@@ -23,15 +27,15 @@ p{
     height: 200px;
     padding: 40px;
     border: 10px solid rebeccapurple;
-    background: var(--sfondo-color);
+    
 }
 .p1{
-    background: var(--sfondo-color);
+    
     font-size: 7rem;
     display: none;
 }
 .p2{
-    background: var(--sfondo-color);
+    
     font-size: 7em;
 }
 .div1{
