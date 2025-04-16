@@ -11,9 +11,10 @@
 }
 
 .navbar{
-    position: sticky;
+    position: fixed;
+    /* position: sticky; */
     background: gray;
-    
+    width: 100%;
 }
  
 .fluid{
